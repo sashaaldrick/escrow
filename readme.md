@@ -3,7 +3,7 @@
 
 Here you will find the code for an escrow smart contract on the Algorand blockchain. It's purpose is to tokenise carbon credits as NFTs, allow sellers of carbon credits to deposit their NFT carbon credits within the non-custodial escrow contract, and finally allow buyers to pay the contract in exchange for the NFT carbon credit.
 
-Two people coded up this implementation in the space of two working days ready for a presentation at the Internal Blockchain Winter School 2022 in Copenhagen. The coders are [Liv Hartoft Borre](https://www.linkedin.com/in/liv-hartoft-borre-70666b11b/) and [Sasha Aldrick](https://www.linkedin.com/in/sashaaldrick/).
+Two people coded up this implementation in the space of two working days ready for a presentation at the International Blockchain Winter School 2022 in Copenhagen. The coders are [Liv Hartoft Borre](https://www.linkedin.com/in/liv-hartoft-borre-70666b11b/) and [Sasha Aldrick](https://www.linkedin.com/in/sashaaldrick/).
 
 # Example workflow
 
