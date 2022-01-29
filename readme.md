@@ -15,29 +15,47 @@ Two people coded up this implementation in the space of two working days ready f
 ```
 git clone https://github.com/algorand/sandbox
 ```
-``` cd sandbox ```
-``` ./sandbox up tesnet ```
+``` 
+cd sandbox 
+```
+```
+./sandbox up tesnet 
+```
 
 * This sandbox initial startup takes a while so wait until it's done and you have access to your terminal prompt again.
 
 * Clone the code and move into the folder.
-``` git clone https://github.com/livborre/escrow ```
-``` cd escrow ```
+``` 
+git clone https://github.com/livborre/escrow 
+```
+```
+cd escrow 
+```
 
 * Create a python environment and install the python requirements.
-```python3 -m venv escrow_venv```
-``` pip3 install -r requirements.txt ```
+```
+python3 -m venv escrow_venv
+```
+``` 
+pip3 install -r requirements.txt 
+```
 
 * Activate the Python environment.
-``` source escrow_venv/bin/activate ```
+``` 
+source escrow_venv/bin/activate 
+```
 
 * Generate the account details to be stored in a local .env file.
-``` python generateAccounts.py ```
+``` 
+python generateAccounts.py 
+```
 
 (Remember to fund the testnet accounts generator for creator, seller and buyer [here](https://bank.testnet.algorand.network/)!!!)
 
 * Run the example.py file.
-``` python example.py ```
+``` 
+python example.py 
+```
 
 ## Extras
 * We recommend using the 'Algosigner' Wallet Extension for Chrome/Brave: [here](https://chrome.google.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm/related)
