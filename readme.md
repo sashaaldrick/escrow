@@ -12,7 +12,9 @@ Two people coded up this implementation in the space of two working days ready f
 * Install Docker Desktop from [here](https://www.docker.com/get-started).
 
 * Setup the sandbox (an Algorand node to communicate with a local network, the testnet or the mainnet):
-``` git clone https://github.com/algorand/sandbox ```
+```
+git clone https://github.com/algorand/sandbox
+```
 ``` cd sandbox ```
 ``` ./sandbox up tesnet ```
 
